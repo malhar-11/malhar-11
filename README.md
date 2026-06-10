@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Gesture Controlled RC car<br>👯 I’m looking to collaborate on Open-source FPGA or Embedded System projects<br>🤝 I’m looking for help with Wireless Communication Protocols<br>🌱 I’m currently learning Computer Architecture<br>💬 Ask me about VHDL & Digital Logic Design<br>
+🔭 I’m currently working on __ <br>👯 I’m looking to collaborate on Open-source FPGA or Embedded System projects<br>🤝 I’m looking for help with Wireless Communication Protocols<br>🌱 I’m currently learning Driver Development<br>💬 Ask me about VHDL & Digital Logic Design<br>
 
 
 ## 🌐 Socials:
